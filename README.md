@@ -1,6 +1,6 @@
 # End-to-End DCGAN Pipeline for Robust Image Generation
 
-📌 **Kaggle GAN Challenge Project**  
+ 
 *(PyTorch · Fault-Tolerant Data Pipelines · Reproducible ML Systems)*
 
 ---
