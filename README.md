@@ -175,6 +175,3 @@ If the competition is no longer accessible, this repository remains valuable as 
 ## License
 
 This project is intended for educational and research purposes.
-
-```
-```
